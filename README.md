@@ -1,4 +1,18 @@
-# Real Estate Market Analysis README
+<div align="center">
+  <h1>Real Estate Market Analysis </h1>
+</div>
+
+<p align="center">
+    <img src="https://img.shields.io/github/contributors/saboye/Analyzing-Real-Estate-Market-Dynamics?color=blue&logo=github&style=for-the-badge" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/forks/saboye/Analyzing-Real-Estate-Market-Dynamics?logo=github&style=for-the-badge" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/issues-raw/saboye/Analyzing-Real-Estate-Market-Dynamics?style=for-the-badge" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/license/saboye/Analyzing-Real-Estate-Market-Dynamics?style=for-the-badge" alt="GitHub license" />
+    <img src="https://img.shields.io/github/last-commit/saboye/Analyzing-Real-Estate-Market-Dynamics?style=for-the-badge" alt="GitHub last commit" />
+    <img src="https://img.shields.io/badge/pandas-1.3.5-blue?style=for-the-badge&logo=pandas" alt="Pandas" />
+    <img src="https://img.shields.io/badge/numpy-1.20.3-blue?style=for-the-badge&logo=numpy" alt="NumPy" />
+    <img src="https://img.shields.io/badge/scikit--learn-0.24.2-blue?style=for-the-badge&logo=scikit-learn" alt="scikit-learn" />
+    <img src="https://img.shields.io/badge/matplotlib-3.4.2-blue?style=for-the-badge&logo=matplotlib" alt="Matplotlib" />
+</p>
 
 ## Overview
 
